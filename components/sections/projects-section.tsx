@@ -17,9 +17,9 @@ const projects = [
     title: "E-Commerce Platform",
     description: "A full-featured e-commerce platform with shopping cart, payment processing, and admin dashboard.",
     image: "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    tags: ["React", "Node.js", "MongoDB", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
+    tags: ["React", "Node.js", "MongoDB", "Paystack"],
+    demoUrl: "https://ecommerce-project-nu-five.vercel.app/",
+    githubUrl: "https://github.com/EmmanuelM0147/ecommerce-project",
     category: "Web",
   },
   {
@@ -34,7 +34,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "Finance Multisig Wallet Mobile App",
+    title: "Finance Multisig Wallet",
     description: "A mobile application multisignature wallet solution designed to enhance the security, transparency, and governance of digital assets in decentralized environments. ",
     image: "https://images.pexels.com/photos/6802042/pexels-photo-6802042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     tags: ["React Native", "Redux", "Firebase", "Chart.js"],
