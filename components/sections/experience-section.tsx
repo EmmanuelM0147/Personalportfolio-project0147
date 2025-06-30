@@ -14,7 +14,7 @@ const experiences = [
  {
     title: "Backend Engineering",
     company: "AltSchool Africa",
-    location: "Lagos, Lagos state, NG",
+    location: "Lagos, NG",
     description: "Specialized in Backend Technologies and Software Engineering. Graduated with honors.",
     date: "2025",
     icon: GraduationCap,
@@ -25,7 +25,7 @@ const experiences = [
     company: "Folio technologies",
     location: "Lagos, NG",
     description: "Led development of multiple web applications using React, Node.js, and MongoDB. Implemented CI/CD pipelines and improved application performance by 40%.",
-    date: "2024 - Present",
+    date: "2025 - Present",
     icon: Briefcase,
     type: "work",
   },
