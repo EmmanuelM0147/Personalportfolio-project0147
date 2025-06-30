@@ -86,7 +86,7 @@ const projects = [
     id: 8,
     title: "Marketplace Delivery Management System",
     description: "Comprehensive marketplace delivery management system that streamlines order processing, courier management, and real-time delivery tracking",
-    image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
     tags: ["Vue.js", "PHP", "Laravel", "MySQL"],
     demoUrl: "https://wondrous-elf-64908c.netlify.app/",
     githubUrl: "https://github.com/EmmanuelM0147/Marketplace-Delivery-Service",
