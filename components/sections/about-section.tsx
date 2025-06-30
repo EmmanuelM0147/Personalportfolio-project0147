@@ -7,8 +7,8 @@ import { motion } from "framer-motion";
 import { Download } from "lucide-react";
 
 const skills = [
-  "JavaScript", "TypeScript", "React", "Next.js", 
-  "Node.js", "Express", "MongoDB", "SQL",
+  "JavaScript", "TypeScript", "React", "Next.js", "Vue",
+  "Node.js", "Express", "Python", "Django", "PHP", "Laravel", "MongoDB", "SQL",
   "GraphQL", "Tailwind CSS", "Redux", "Git",
   "Docker", "AWS", "CI/CD", "Unit Testing"
 ];
