@@ -65,7 +65,7 @@ export function AboutSection() {
                 Full-Stack Developer & Tech Enthusiast
               </h3>
               <p className="text-muted-foreground">
-                With over 3 years of experience in web and mobile development, 
+                With years of experience in web and mobile development, 
                 I specialize in creating elegant, user-friendly, and high-performance
                 applications using modern technologies.
               </p>
