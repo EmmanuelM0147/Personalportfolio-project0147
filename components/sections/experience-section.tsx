@@ -11,6 +11,15 @@ import { Briefcase, GraduationCap, Award } from "lucide-react";
 import { useTheme } from "next-themes";
 
 const experiences = [
+ {
+    title: "Backend Engineering",
+    company: "AltSchool Africa",
+    location: "Lagos, Lagos state, NG",
+    description: "Specialized in Backend Technologies and Software Engineering. Graduated with honors.",
+    date: "2025",
+    icon: GraduationCap,
+    type: "education",
+  },
   {
     title: "Software Engineer",
     company: "Folio technologies",
