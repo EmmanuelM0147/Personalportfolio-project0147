@@ -42,7 +42,7 @@ export function AboutSection() {
           >
             <div className="relative w-60 h-60 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/20">
               <Image
-                src="https://res.cloudinary.com/dtzv2ckwm/image/upload/v1747999130/IMG_0392_anncdb.jpg"
+                src="https://res.cloudinary.com/dtzv2ckwm/image/upload/v1752232638/IMG_2950_3_sv3cif.jpg"
                 alt="Emmanuel Okeowo"
                 fill
                 className="object-cover"
