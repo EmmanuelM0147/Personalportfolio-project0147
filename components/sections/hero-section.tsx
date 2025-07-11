@@ -73,7 +73,7 @@ export function HeroSection() {
             transition={{ duration: 0.5, delay: 0.3 }}
             className="text-lg text-muted-foreground max-w-2xl mb-8"
           >
-            Building exceptional web & mobile experiences with MERN stack.
+            Building exceptional web & mobile experiences with the latest technology stack.
             Transforming ideas into elegant, functional, and user-friendly applications.
           </motion.p>
           
